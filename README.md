@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @herculessoares
+- 👀 I’m interested in C, C++ And Java Coding
+- 🌱 I’m currently learning IT at the University of Montes Claros - Brazil
+- 📫 How to reach me: @Hercules_Soares (twitter)
