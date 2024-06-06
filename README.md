@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @herculessoares
-- 👀 I’m interested in C, C++, Java, JavaScript and Python Coding
+- 👀 FullStack Dev (Js). Java BackEnd Dev. Desktop Dev. (Java). Mobile Dev. (Dart Flutter). 
 - 🌱 I’m currently learning IT at the University of Montes Claros - Brazil
 - 📫 How to reach me: (https://www.linkedin.com/in/hercules-soares)
